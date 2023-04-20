@@ -1,4 +1,4 @@
-## RSS-JSON
+## rss-json
 
 SmartModule used in Fluvio to convert RSS XML files into JSON.
 
