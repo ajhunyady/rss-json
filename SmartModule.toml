@@ -1,0 +1,12 @@
+[package]
+name = "rss-json"
+group = "john"
+version = "0.1.0"
+apiVersion = "0.1.0"
+description = "Convert RSS XML content into JSON"
+license = "Apache-2.0"
+visibility = "public"
+
+[[params]]
+name = "input"
+description = "input description"

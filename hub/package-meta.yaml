@@ -1,0 +1,12 @@
+---
+package_format_version: "0.3"
+name: rss-json
+version: 0.1.1
+group: john
+description: Converts RSS XML into JSON format
+license: Apache2
+visibility: public
+manifest:
+  - "../SmartModule.toml"
+  - "../target/wasm32-unknown-unknown/release-lto/rss_json.wasm"
+tags: ~
