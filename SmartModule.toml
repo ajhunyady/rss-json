@@ -1,9 +1,9 @@
 [package]
 name = "rss-json"
 group = "john"
-version = "0.1.0"
+version = "0.1.2"
 apiVersion = "0.1.0"
-description = "Convert RSS XML content into JSON"
+description = "Converts RSS XML content into JSON"
 license = "Apache-2.0"
 visibility = "public"
 
